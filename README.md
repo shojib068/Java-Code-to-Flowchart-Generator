@@ -2,6 +2,8 @@
 
 A modern, interactive web application that converts **Java code** into a **human-readable workflow diagram** using **Mermaid.js**. Perfect for visualizing complex Java methods, if-else branches, and try-catch flows in a way **non-technical stakeholders can understand**.
 
+Deployment Link: https://java-code-to-flowchart-generator-jappvbt2nkthnke2ezmofn4.streamlit.app/
+
 ---
 
 ## 🌟 Features
@@ -41,6 +43,7 @@ pip install streamlit javalang
 npm install -g @mermaid-js/mermaid-cli
 4. **Run the code**
 streamlit run app.py
+
 
 
 
