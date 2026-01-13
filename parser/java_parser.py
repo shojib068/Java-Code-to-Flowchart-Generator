@@ -1,7 +1,6 @@
 import javalang
 from parser.label_generator import HumanLabelGenerator
 
-
 def escape_label(label: str) -> str:
     """
     Escape special characters for Mermaid node labels.
